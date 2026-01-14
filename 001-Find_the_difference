@@ -14,3 +14,5 @@ public:
         return XOR1^XOR2;
     }
 };
+TC: 0 ms
+SC: 9.09 MB
